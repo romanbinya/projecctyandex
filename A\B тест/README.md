@@ -1,1 +1,1 @@
-
+Визуализация в данном проекте построена при помощи библиотеки plotly, корректное отображение проекта [здесь](https://nbviewer.org/github/romanbinya/projecctyandex/blob/main/A%5CB%20тест/Проверка%20AB%20теста.ipynb)
